@@ -459,7 +459,7 @@ Electron.app.on('ready', function() {
 		maximizable: false,
 		fullscreenable: false,
 		show: false,
-		title: 'Cryptocat',
+		title: 'Kitten Legacy',
 		webPreferences: {
 			preload: Path.join(__dirname, 'js/global.js')
 		}
